@@ -12,7 +12,7 @@ public class Demo {
 	}
 	public void show automatically()
 	{
-		System.out.println("Hello SL, This is Master Build, when ever)chnages are pushed automaitcally Build will triggered");
+		System.out.println("Hello SL, This is Master Build, when everchnages are pushed automaitcally Build will triggered");
 	}
 
 }
