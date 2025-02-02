@@ -10,5 +10,9 @@ public class Demo {
 	{
 		System.out.println("Hello SL, This is Master Build");
 	}
+	public void show automatically()
+	{
+		System.out.println("Hello SL, This is Master Build, when ever)chnages are pushed automaitcally Build will triggered");
+	}
 
 }
